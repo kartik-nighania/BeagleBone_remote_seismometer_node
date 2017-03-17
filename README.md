@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 ## QCN in action :) 
 
-<p align="left"><img src="https://thumb.ibb.co/cyKhWF/xy.png" alt="sensor node" width="250"/><img src="https://thumb.ibb.co/daNuBF/READING_GOT.png" alt="sensor node" width="250"/><img src="https://thumb.ibb.co/fwigQa/help.png" width="250"/></p>
+<p align="left"><img src="https://thumb.ibb.co/cyKhWF/xy.png" alt="sensor node" width="200"/><img src="https://thumb.ibb.co/daNuBF/READING_GOT.png" alt="sensor node" width="200"/><img src="https://thumb.ibb.co/fwigQa/help.png" width="200"/></p>
   
 QCN: How QCN helps in earthquakes (in rescue & research) ?       https://www.youtube.com/watch?v=DMVoesKNqNU
 
