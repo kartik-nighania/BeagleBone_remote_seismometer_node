@@ -8,8 +8,8 @@ ________________________________________________________________________________
 ## QCN in action :) 
 
 <p align="left"><img src="https://thumb.ibb.co/cyKhWF/xy.png" alt="sensor node" width="250"/><img src="https://thumb.ibb.co/daNuBF/READING_GOT.png" alt="sensor node" width="250"/><img src="https://thumb.ibb.co/fwigQa/help.png" width="250"/></p>
+  
+QCN: How QCN helps in earthquakes (in rescue & research) ?       https://www.youtube.com/watch?v=DMVoesKNqNU
 
-QCN: How QCN helps in earthquakes?  https://www.youtube.com/watch?v=DMVoesKNqNU
-
-QCN: How does it the node Works?	ttps://www.youtube.com/watch?v=-NTuPoXPWE8
+QCN: How a node works and sends real-time data to QCN servers ?  https://www.youtube.com/watch?v=-NTuPoXPWE8
 ___________________________________________________________________________________________________
