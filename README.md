@@ -4,9 +4,10 @@ The Quake-Catcher Network is a collaborative initiative for developing the world
 
 <p align="center"><img src="http://quakecatcher.net/sensor/img/trigger_latest_w.jpg" alt="Nodes presently active" width="600"/></p>
 ___________________________________________________________________________________________________
-##QCN in action :) 
 
-<p align="left"><img src="https://thumb.ibb.co/cyKhWF/xy.png" alt="sensor node" width="300"/><img src="https://thumb.ibb.co/daNuBF/READING_GOT.png" alt="sensor node" width="300"/><img src="https://thumb.ibb.co/fwigQa/help.png" width="300"/></p>
+## QCN in action :) 
+
+<p align="left"><img src="https://thumb.ibb.co/cyKhWF/xy.png" alt="sensor node" width="250"/><img src="https://thumb.ibb.co/daNuBF/READING_GOT.png" alt="sensor node" width="250"/><img src="https://thumb.ibb.co/fwigQa/help.png" width="250"/></p>
 
 QCN: How QCN helps in earthquakes?  https://www.youtube.com/watch?v=DMVoesKNqNU
 
