@@ -68,7 +68,7 @@ server = http.createServer(function (req, res)
 });
 
 server.listen(port);
-console.log("Listening on " + port);
+console.log("port has been made- " + port);
 
 
 var io = require('socket.io').listen(server);
