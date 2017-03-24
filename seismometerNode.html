@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Seismometer node</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="jquery.js"></script>
+    <script src="jquery.flot.js"></script>
+    <script src="mpu.js"></script>
+  </head>
+  <body background="globe.jpg">
+<font size="40">BeagleBone Remote Seismometer Node</font>
+
+    <h2>Node Real Time Data</h2>
+ 	<table border="3" colour="white">
+	<tr>
+	<th>X</th>
+	<th>Y</th>
+	<th>Z</th>
+	</tr>
+	<tr>
+	<td id="0">0</td>
+	<td id="1">0</td>
+	<td id="2">0</td>
+	</tr>
+	<tr>
+	<td id="0g">0g</td>
+	<td id="1g">0g</td>
+	<td id="2g">0g</td>
+	</tr>
+	</table> 
+
+    <div id="plotTop" style="width:950px;height:450px;"></div>
+    <center>Time (ms)</center>
+  </body>
+</html>
+
