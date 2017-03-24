@@ -17,32 +17,57 @@ ________________________________________________________________________________
 for latest npm install-
 
 sudo npm cache clean -f
+
+
 sudo npm install -g n
+
+
 sudo n stable
+
+
 node -v to see version mine 7.6
+
 
 to install bonescript - 
 
+
 TERM=none npm install -g bonescript 
+
 
 for socket.io-
 
+
 npm install socket.io
+
 
 to install other node.js packages to communicate with the device we are using-
 
+
 npm config set strict-ssl false
+
+
 npm install i2c
+
+
 npm install mpu6050
+
+
 npm install jquery
+
 
 float charts have been used and included over here which is a jquery based plotting tool http://www.flotcharts.org/
 
+
 just install these things and then run-
+
+
 to enable i2c1 -
+
 
 sudo sh -c "echo 'BB-I2C1' > /sys/devices/platform/bone_capemgr/slots"
 
+
 then to run the server and start plotting use- 
+
 
 node seismometerNode.js 
