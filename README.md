@@ -74,3 +74,10 @@ then to run the server and start plotting use-
 
 
 node seismometerNode.js 
+
+you will get the port number to goto in comments.
+
+
+then in your browser write -
+
+192.168.7.2:1551 (where 1551 is the port number and 192.168.7.2 is the beaglebone ip address)
