@@ -1,7 +1,7 @@
 #!/usr/bin/node
 "use strict";
 
-var port = 9992,
+var port = 9993,
     http = require('http'),
     url = require('url'),
     fs = require('fs'),
