@@ -40,7 +40,7 @@ for socket.io-
 npm install socket.io
 
 
-to install other node.js packages to communicate with the device we are using-
+to install other node.js packages to communicate with the device we are using -
 
 
 npm config set strict-ssl false
@@ -53,6 +53,9 @@ npm install mpu6050
 
 
 npm install jquery
+
+
+npm install ffi
 
 
 float charts have been used and included over here which is a jquery based plotting tool http://www.flotcharts.org/
