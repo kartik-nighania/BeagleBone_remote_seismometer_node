@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Seismometer node</title>
+    <title>Seismometer Node</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="/socket.io/socket.io.js"></script>
     <script src="jquery.js"></script>
@@ -9,9 +9,10 @@
     <script src="mpu.js"></script>
   </head>
   <body background="globe.jpg">
-<font size="40">BeagleBone Remote Seismometer Node</font>
-
+  <font size="40">BeagleBone Remote Seismometer Node</font>
     <h2>Node Real Time Data</h2>
+
+    <h2>Accelerometer:</h2>
  	<table border="3" colour="white">
 	<tr>
 	<th>X</th>
@@ -30,7 +31,28 @@
 	</tr>
 	</table> 
 
-    <div id="plotTop" style="width:950px;height:450px;"></div>
+    <div id="plotTop" style="width:950px;height:350px;"></div>
+    <center>Time (ms)</center>
+
+    <h2>Gyroscope:</h2>
+	<table border="1">
+	<tr>
+	<th>X</th>
+	<th>Y</th>
+	<th>Z</th>
+	</tr>
+	<tr>
+	<td id="3">0</td>
+	<td id="4">0</td>
+	<td id="5">0</td>
+	</tr>
+	<tr>
+	<td id="3r">0deg/s</td>
+	<td id="4r">0deg/s</td>
+	<td id="5r">0deg/s</td>
+	</tr>
+	</table> 
+<div id="plotBottom" style="width:950px;height:350px;"></div>
     <center>Time (ms)</center>
   </body>
 </html>
